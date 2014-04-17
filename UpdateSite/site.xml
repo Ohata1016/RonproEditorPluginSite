@@ -3,5 +3,11 @@
    <feature url="features/RonproPlugins_2.0.0.jar" id="RonproPlugins" version="2.0.0">
       <category name="info.matsuzawalab.ronproeditorplugin"/>
    </feature>
+   <feature url="features/CommonLibraryFeature_1.0.0.jar" id="CommonLibraryFeature" version="1.0.0">
+      <category name="info.matsuzawalab.ronproeditorplugin"/>
+   </feature>
+   <feature url="features/info.matsuzawalab.PresPlugin_3.7.2.jar" id="info.matsuzawalab.PresPlugin" version="3.7.2">
+      <category name="info.matsuzawalab.ronproeditorplugin"/>
+   </feature>
    <category-def name="info.matsuzawalab.ronproeditorplugin" label="info.matsuzawalab.ronproeditorplugin"/>
 </site>
