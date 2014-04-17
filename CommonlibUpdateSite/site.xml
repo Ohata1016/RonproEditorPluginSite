@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/CommonLibraryFeature_1.0.0.jar" id="CommonLibraryFeature" version="1.0.0">
+      <category name="info.matsuwazalab.commonlibrary"/>
+   </feature>
+   <category-def name="info.matsuwazalab.commonlibrary" label="info.matsuwazalab.commonlibrary"/>
+</site>
